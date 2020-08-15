@@ -1,0 +1,13 @@
+.vs/
+
+Restaurant.API/bin
+Restaurant.API/obj
+
+Restaurant.Common/bin
+Restaurant.Common/obj
+
+Restaurant.Data/bin
+Restaurant.Data/obj
+
+Restaurant.Services/bin
+Restaurant.Services/obj
